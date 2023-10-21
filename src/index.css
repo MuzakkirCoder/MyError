@@ -1,0 +1,25 @@
+
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.response{
+  margin-left: 10px;
+  color:#ff0000;
+  cursor: pointer;
+}
